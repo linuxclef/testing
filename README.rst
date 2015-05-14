@@ -2,6 +2,9 @@
 Main Title
 ==========
 
+.. contents::
+.. sectnum::
+
 Introduction
 ------------
 
